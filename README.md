@@ -64,7 +64,7 @@ pip install -r requirements.txt
 python3 shadowcrypt.py
 ```
 
-
+```bash
 python shadowcrypt.py
 
 [+] Analyzing Password...
