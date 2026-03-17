@@ -29,7 +29,6 @@ Designed with a **hacker-style terminal UI**, this tool delivers both functional
 - 🌐 **Breach Detection (HIBP API)**
 - 🎨 **Terminal-style GUI (Tkinter)**
 - ⚡ **Auto-scrolling Output**
-- ⌨️ **Keyboard Shortcuts (Ctrl + A / C / V)**
 - 📈 **Live Strength Progress Bar**
 - 💡 **Security Suggestions Engine**
 
@@ -52,8 +51,11 @@ Designed with a **hacker-style terminal UI**, this tool delivers both functional
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/shadowcrypt-analyzer.git
+
+git clone https://github.com/amal0923/shadowcrypt-analyzer.git
+
 cd shadowcrypt-analyzer
+
 pip install -r requirements.txt
 
 
