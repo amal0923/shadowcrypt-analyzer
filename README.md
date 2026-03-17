@@ -64,6 +64,7 @@ pip install -r requirements.txt
 python3 shadowcrypt.py
 ```
 
+🛡️ Example Output
 ```bash
 python shadowcrypt.py
 
@@ -72,3 +73,16 @@ python shadowcrypt.py
 [+] Entropy: 192.72
 [+] Crack Time: 10 billion years
 [+] Not found in breaches
+```
+
+## 🤝 Contributing
+
+Contact me via [LinkedIn](https://www.linkedin.com/in/amal-raj-k-a066b6375/) for collaborations.  
+
+---
+
+## ⭐ Star the Repository
+
+If you find ShadowCrypt useful, please **⭐ star the repository** to support development.  
+
+🦾 **Unleash ShadowCrypt, explore responsibly!**
