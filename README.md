@@ -53,13 +53,17 @@ Designed with a **hacker-style terminal UI**, this tool delivers both functional
 ```bash
 
 git clone https://github.com/amal0923/shadowcrypt-analyzer.git
-
-cd shadowcrypt-analyzer
-
-pip install -r requirements.txt
-
-
+```
 ```bash
+cd shadowcrypt-analyzer
+```
+```bash
+pip install -r requirements.txt
+```
+python3 shadowcrypt.py
+```
+
+
 python shadowcrypt.py
 
 [+] Analyzing Password...
