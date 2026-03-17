@@ -60,6 +60,7 @@ cd shadowcrypt-analyzer
 ```bash
 pip install -r requirements.txt
 ```
+```bash
 python3 shadowcrypt.py
 ```
 
