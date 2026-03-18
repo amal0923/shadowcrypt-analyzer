@@ -32,7 +32,24 @@ BANNER = r"""
 # -----------------------------
 # PASSWORD ANALYSIS
 # -----------------------------
-common_patterns = ["12345", "password", "qwerty", "admin"]
+common_patterns = ["12345", "password", "qwerty", "admin","Password@123","admin123","root","root123",
+    "user","user123","login","login123","welcome","welcome123",
+    "qwerty","qwerty123","abc123","test","test123","guest","guest123",
+    "letmein","letmein123","monkey","dragon","football","baseball",
+    "iloveyou","love","shadow","shadow123","master","master123",
+    "hello","hello123","freedom","freedom123","whatever","whatever123",
+    "trustno1","trustno1","sunshine","sunshine123","princess","princess123",
+    "charlie","charlie123","donald","donald123","superman","superman123",
+    "batman","batman123","zaq1zaq1","qazwsx","qazwsx123",
+    "123","1234","12345","123456","1234567","12345678","123456789",
+    "111","1111","111111","000","0000","000000",
+    "999","9999","987654","987654321",
+    "1q2w3e4r","1q2w3e","1q2w3e4r5t",
+    "pass","pass123","admin@123","root@123",
+    "india","india123","kerala","kerala123",
+    "amal","amal123","shadowcrypt","shadowcrypt123",
+    "god","god123","king","king123","queen","queen123",
+    "secret","secret123","default","default123"]
 
 def calculate_entropy(password):
     pool = 0
